@@ -9,6 +9,16 @@ Dhuhr 11:39  |  +12m        # for N minutes after a prayer starts
 
 Click for today's prayer list. Times come from the [`muslimtify`](https://github.com/muslimtify-org/muslimtify) CLI ([website](https://www.muslimtify.org/)), which must be installed and print local time.
 
+## Screenshots
+
+**Top bar**
+
+![Top bar showing the next prayer](screenshots/tray.png)
+
+**Prayer times panel**
+
+![Panel with today's prayer list](screenshots/panel.png)
+
 ## Install
 
 ```sh
