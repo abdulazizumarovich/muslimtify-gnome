@@ -1,0 +1,8 @@
+{
+  "uuid": "muslimtify@abdulazizumarovich.github.io",
+  "name": "Prayer Times Panel for Muslimtify",
+  "description": "Unofficial extension for the muslimtify CLI. Shows the next prayer from muslimtify in the top bar as text: \"Asr 14:40  |  1h 21m\". For a configurable window after a prayer starts it shows the time passed instead: \"Dhuhr 11:39  |  +12m\".",
+  "shell-version": ["46", "47", "48", "49", "50"],
+  "url": "https://github.com/abdulazizumarovich/muslimtify-tray",
+  "settings-schema": "org.gnome.shell.extensions.muslimtify"
+}

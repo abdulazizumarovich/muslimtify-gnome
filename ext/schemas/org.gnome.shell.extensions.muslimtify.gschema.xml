@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.muslimtify" path="/org/gnome/shell/extensions/muslimtify/">
+    <key name="shift-minutes" type="i">
+      <default>20</default>
+      <range min="0" max="180"/>
+      <summary>Minutes to keep showing the current prayer</summary>
+      <description>After a prayer starts, show time elapsed since it for this many minutes before switching to the next prayer.</description>
+    </key>
+    <key name="current-color" type="s">
+      <default>'#57e389'</default>
+      <summary>Color of the current (Now) prayer row</summary>
+    </key>
+    <key name="next-color" type="s">
+      <default>'#ffa348'</default>
+      <summary>Color of the next prayer row</summary>
+    </key>
+    <key name="muslimtify-command" type="s">
+      <default>'muslimtify'</default>
+      <summary>Path or name of the muslimtify binary</summary>
+    </key>
+  </schema>
+</schemalist>
